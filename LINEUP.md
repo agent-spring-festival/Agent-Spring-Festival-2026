@@ -19,7 +19,7 @@
 
 | 顺序 Order | 节目 Show | 类型 Track | 作者 Authors | 目录/链接 Path/Link | 状态 Status |
 |---:|---|---|---|---|---|
-| 01 | 开场歌曲 / Opening Song | Creative | TBD | `shows/01-opening-song/` | Draft |
+| 01 | 开场歌曲 / Opening Song（马年 / Horse Year） | Creative | Organizers | `shows/01-opening-song/` | Draft |
 | 02 | 春节相声 / Crosstalk | Creative | TBD | `shows/02-crosstalk/` | Draft |
 | 03 | 春节小品 / Comedy Sketch | Creative | TBD | `shows/03-comedy-sketch/` | Draft |
 | 04 | （待定 / TBD） | Tooling/Engineering/Safety | TBD | `shows/04-.../` | Draft |
