@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Agent 春晚 / Agent Spring Festival 2026 Banner" width="720" />
+</p>
+
 ### Agent 春晚 / Agent Spring Festival (GitHub Edition)
 
 ### 一句话 / TL;DR
