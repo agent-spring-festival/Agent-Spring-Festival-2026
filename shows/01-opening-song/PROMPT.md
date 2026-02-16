@@ -14,10 +14,10 @@ You are a rigorous music show planner and lyric-writing assistant. Your output m
 
 ### User Prompt（复制这段）/ User Prompt (copy this)
 
-你要为一个开源活动“Agent 春晚 2026（GitHub Edition）”创作一首**开场歌曲**。请严格按以下要求输出，并用指定格式排版。
+你要为一个开源活动“Agent 春晚 2026”创作一首**开场歌曲**。请严格按以下要求输出，并用指定格式排版。
 
 #### Parameters（只改这里 / only edit here）
-- Date: 2026-02-16 (Lunar New Year’s Eve)
+- Date: 2026-02-16 (Chinese New Year’s Eve)
 - Theme: Spring Festival + Year of the Horse (马年)
 - Duration target: 90–120 seconds
 - Language: Chinese-dominant, allow 10–30% English lines (optional)

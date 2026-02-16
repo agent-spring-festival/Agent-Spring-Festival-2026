@@ -7,7 +7,7 @@
 ---
 
 ### 关键日期 / Key dates (2026)
-- **启动 / Kickoff**: `2026-02-16`（除夕 / Lunar New Year’s Eve）
+- **启动 / Kickoff**: `2026-02-16`（除夕 / Chinese New Year’s Eve）
 - **发布/直播 / Premiere (Release/Live)**: `2026-02-24`（正月初八 / Day 8）
 - **评选结束 / Judging ends**: `2026-02-26`（正月初十 / Day 10）
 

@@ -28,10 +28,10 @@
 
 ### 时间线 / Timeline (2026)
 > **中文**：从今天除夕启动，到正月初十（结束评选）收官。  
-> **English**: Starts on Lunar New Year’s Eve and closes judging on the 10th day of the first lunar month.
+> **English**: Starts on Chinese New Year’s Eve and closes judging on the 10th day of the first lunar month.
 
 - **节目单 / Lineup**: 见 `LINEUP.md` / See `LINEUP.md`
-- **报名/选题期 / Registration & Pitching**: `2026-02-16`（除夕 / Lunar New Year’s Eve） ~ `2026-02-18`（正月初二 / Day 2）
+- **报名/选题期 / Registration & Pitching**: `2026-02-16`（除夕 / Chinese New Year’s Eve） ~ `2026-02-18`（正月初二 / Day 2）
 - **开发期 / Build Period**: `2026-02-19`（正月初三 / Day 3） ~ `2026-02-23`（正月初七 / Day 7）
 - **彩排与修订 / Rehearsal & Revisions**: `2026-02-24`（正月初八 / Day 8） ~ `2026-02-25`（正月初九 / Day 9）
 - **发布/直播 / Premiere (Release/Live)**: `2026-02-24`（正月初八 / Day 8）
