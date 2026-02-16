@@ -48,13 +48,13 @@
 
 ### 预置节目组（模板）/ Preset show templates
 - **中文**：我们在仓库一级目录预置了 3 个“节目模板文件夹”，你可以直接复制/改名后开始创作，然后再按投稿规范放入 `shows/...` 走 PR 流程。
-  - `开场歌曲/`：开场歌曲（主题曲/合唱/开场串烧）
-  - `春节相声/`：春节相声（双人/多人/单口皆可）
-  - `春节小品/`：春节小品（短剧/情景剧/互动剧）
+  - `开场歌曲-Opening-Song/`：开场歌曲（主题曲/合唱/开场串烧）
+  - `春节相声-Crosstalk/`：春节相声（双人/多人/单口皆可）
+  - `春节小品-Comedy-Sketch/`：春节小品（短剧/情景剧/互动剧）
 - **English**: We provide three top-level preset template folders. You can copy/rename one to start quickly, then move it under `shows/...` and submit via PR.
-  - `开场歌曲/` (Opening Song)
-  - `春节相声/` (Crosstalk / Xiangsheng)
-  - `春节小品/` (Comedy Sketch)
+  - `开场歌曲-Opening-Song/` (Opening Song)
+  - `春节相声-Crosstalk/` (Crosstalk / Xiangsheng)
+  - `春节小品-Comedy-Sketch/` (Comedy Sketch)
 
 ---
 
